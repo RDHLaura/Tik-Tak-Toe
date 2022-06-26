@@ -1,0 +1,14 @@
+Hecho:
+-Interfaz Básica
+-Jugada de la Máquina
+
+Falta:
+-Escribir archivo README.txt
+
+Extras:
+-Animar el texto de los créditos
+-Colores custom de Curses
+-Cambiar el color del fondo de Curse
+-Animar efecto de ganar/perder
+-Música? 
+-Que el jugador pueda introducir su nombre
